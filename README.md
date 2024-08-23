@@ -5,7 +5,6 @@ Bu proje, [Berkant Kaya'nın](https://www.youtube.com/@BerkantKaya) YouTube kana
 ## İçindekiler
 - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
 - [Kurulum](#kurulum)
-- [Proje Yapısı](#proje-yapısı)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
 - [Rapor](#rapor)
 
@@ -18,45 +17,10 @@ Bu proje, [Berkant Kaya'nın](https://www.youtube.com/@BerkantKaya) YouTube kana
 ## Kurulum
 Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
-  git clone https://github.com/kullanici_adiniz/react-quizapp.git
-  cd quizapp
-  npm install
-  npm start
-
-## Proje Yapısı
-
-  react-quizapp/
-│
-├── public/             # Genel dosyalar (index.html, favicon, vb.)
-├── src/                # Uygulama kaynak kodları
-│   ├── api/            # API ile ilgili dosyalar
-│   │   └── api.js      # API bağlantıları ve işlevler
-│   ├── components/     # React bileşenleri
-│   │   ├── dropdown/   # Dropdown bileşenleri
-│   │   │   ├── Dropdown.css
-│   │   │   └── Dropdown.jsx
-│   │   ├── modal/      # Modal bileşenleri
-│   │   │   ├── Modal.css
-│   │   │   └── Modal.jsx
-│   │   └── questionCard/  # Soru kartı bileşenleri
-│   │       ├── QuestionCard.css
-│   │       └── QuestionCard.jsx
-│   ├── pages/          # Sayfa bileşenleri
-│   │   ├── introduce/  # Tanıtım sayfası bileşenleri
-│   │   │   ├── Introduce.css
-│   │   │   └── Introduce.jsx
-│   │   └── quiz/       # Quiz sayfası bileşenleri
-│   │       ├── Quiz.css
-│   │       └── Quiz.jsx
-│   ├── App.css         # Genel stil dosyası
-│   ├── App.js          # Ana uygulama bileşeni
-│   ├── index.css       # Genel stil dosyası
-│   └── index.js        # Giriş noktası
-│
-├── .gitignore          # Git'i hariç tutulan dosyalar
-├── package-lock.json   # Proje bağımlılıkları
-├── package.json        # Proje bilgileri ve bağımlılıkları
-└── README.md           # Proje açıklamaları (bu dosya)
+- git clone https://github.com/kullanici_adiniz/react-quizapp.git
+- cd quizapp
+- npm install
+- npm start
 
 ## Ekran Görüntüleri
 
@@ -65,7 +29,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 ![Ekran Resmi 2024-08-23 15 03 41](https://github.com/user-attachments/assets/1b4409fa-b11d-4489-be2f-bd7c46d21425)
 
 ## Rapor
-- 1. gün: Videonun baş kısmını izleyip react kurulumu ve pages sayfalarının işlevselliklerini ve css kısımlarını hallettim.
-- 2. gün: Videonun devamındaki component kısımlarının kodlamasını hallettim. Commit işlemlerini halledip projemi github'a yükledim.
+ 1. gün: Videonun baş kısmını izleyip react kurulumu ve pages sayfalarının işlevselliklerini ve css kısımlarını hallettim.
+ 2. gün: Videonun devamındaki component kısımlarının kodlamasını hallettim. Commit işlemlerini halledip projemi github'a yükledim.
 
 
