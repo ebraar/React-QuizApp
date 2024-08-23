@@ -7,7 +7,7 @@ Bu proje, [Berkant Kaya'nın](https://www.youtube.com/@BerkantKaya) YouTube kana
 - [Kurulum](#kurulum)
 - [Proje Yapısı](#proje-yapısı)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Rapor]
+- [Rapor](#rapor)
 
 ## Kullanılan Teknolojiler
 - **React** - Kullanıcı arayüzü oluşturmak için.
@@ -18,14 +18,13 @@ Bu proje, [Berkant Kaya'nın](https://www.youtube.com/@BerkantKaya) YouTube kana
 ## Kurulum
 Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
-1. **Depoyu klonlayın:**
-   ```bash
   git clone https://github.com/kullanici_adiniz/react-quizapp.git
   cd quizapp
   npm install
   npm start
 
 ## Proje Yapısı
+
   react-quizapp/
 │
 ├── public/             # Genel dosyalar (index.html, favicon, vb.)
