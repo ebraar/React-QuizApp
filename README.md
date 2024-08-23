@@ -17,7 +17,7 @@ Bu proje, [Berkant Kaya'nın](https://www.youtube.com/@BerkantKaya) YouTube kana
 ## Kurulum
 Projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
-- git clone https://github.com/kullanici_adiniz/react-quizapp.git
+- git clone https://github.com/ebraar/react-quizapp.git
 - cd quizapp
 - npm install
 - npm start
